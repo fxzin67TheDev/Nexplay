@@ -13,7 +13,23 @@ O NexPlay é um projeto criado por Fxzin67TheDev com o objetivo de desenvolver u
 
 ## Instalação
 
-As instruções de instalação serão adicionadas conforme o projeto evoluir.
+ative o modo desenvolvedor da sua tv pressionando:
+🏠 3x
+⬆️ 2x
+◀️ 1x
+▶️ 1x
+◀️ 1x
+▶️ 1x
+
+Baixe o ZIP do repositório 
+
+coloque o IP da sua Roku no navegador 
+
+aperte em upload e coloque o ZIP
+
+aperte "install with ZIP"
+
+aproveite a nexplay!
 
 ## Desenvolvedor
 
