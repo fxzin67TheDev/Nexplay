@@ -9,7 +9,7 @@ O NexPlay é um projeto criado por Fxzin67TheDev com o objetivo de desenvolver u
 
 ## Status
 
-🚧 Em desenvolvimento.
+🔥1.0 Lançada 
 
 ## Instalação
 
